@@ -1,8 +1,46 @@
-# React + Vite
+# Kajol Sutra Dhar's portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my portfolio website. It showcases my skills, projects, and provides a way to contact me. Below is an overview of the project structure and functionalities.
 
-Currently, two official plugins are available:
+## Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **index.html**: Main HTML file.
+- **css/**: Directory containing CSS stylesheets.
+- **assets/**: Directory containing assets like images.
+- **php/**: Directory containing PHP scripts for form processing.
+- **js/**: Directory containing JavaScript files.
+
+## Functionality
+
+- **Header**: Contains logo and navigation menu.
+- **Home Section**: Displays greeting message and introduction.
+- **About Section**: Provides information about myself.
+- **Projects Section**: Showcases various projects.
+- **Contact Section**: Allows visitors to send messages.
+- **Footer**: Includes social media links and weather data.
+
+## Usage
+
+To view the website
+Will be updated soon
+
+
+## Technologies Used
+- Drupal
+- React
+- Redux
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Font Awesome
+- Google Fonts
+
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+* kajol sutra dhar
