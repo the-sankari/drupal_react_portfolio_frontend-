@@ -7,13 +7,13 @@ import Footer from "./Footer";
 const Layout = () => {
   return (
     <Container>
-      <Box>
+      <Box sx={{paddingBottom:"60px"}}>
         <Header />
-      </Box>
-      <Box  sx={{paddingTop:"100px"}}>
+      </Box >
+      <Box  >
         <Outlet /> {/* Ensure this is correctly placed */}
       </Box>
-      <Box>
+      <Box sx={{position:"absolute", bottom:"0"}} >
         <Footer />
       </Box>
     </Container>
